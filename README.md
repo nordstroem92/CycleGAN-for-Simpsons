@@ -1,5 +1,5 @@
 # CycleGAN with Simpsons stylization
-This project was based upon the official PyTorch implementation of CycleGAN. Total Variation loss and Edge Promoting loss were implemented in respectively the generator and discriminator networks. Other than that, data augmentation and Gaussian Blur was used to experiment with getting better results. The current results are however likely due to poor quality data sets. 
+This project was based upon the official PyTorch implementation of CycleGAN. Total Variation loss and Edge Promoting loss were implemented in respectively the generator and discriminator networks. Other than that, data augmentation and Gaussian Blur was used to experiment with getting better results. The current results are however likely due to poor quality data sets.  
 
 ### Run with Gaussian Blur only 
 ![GaussianBlurOnly](https://user-images.githubusercontent.com/15377936/147256160-f417ef5f-af04-4795-bba3-d3c22addc73d.png)
